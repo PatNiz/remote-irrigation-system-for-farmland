@@ -13,4 +13,9 @@ what is also taken into account is the protection against unexpected failures or
 weather conditions, which would have a negative impact on the work of the sprinklers.
 ![image](https://user-images.githubusercontent.com/65347753/196162565-ba746afc-e935-46b7-a1ef-221e7a4f36b3.png)
 ![image](https://user-images.githubusercontent.com/65347753/196162649-739a7d75-8d55-4c8c-a811-d74340baeb26.png)
+![image](https://user-images.githubusercontent.com/65347753/196162865-c4e524f9-4669-48d2-81be-1e379b8a30a0.png)
+![image](https://user-images.githubusercontent.com/65347753/196162893-abf69960-3793-4c3b-80cb-38c57d1d100c.png)
+![image](https://user-images.githubusercontent.com/65347753/196162919-b553cabf-864b-42c7-9e68-36c000b2d82a.png)
+
+
 
