@@ -11,3 +11,6 @@ work fully autonomously because it analyzes data from connected sensors in real 
 main decision factor of sprinkler operation is the current value of soil moisture. In the work 
 what is also taken into account is the protection against unexpected failures or unfavorable 
 weather conditions, which would have a negative impact on the work of the sprinklers.
+![image](https://user-images.githubusercontent.com/65347753/196162565-ba746afc-e935-46b7-a1ef-221e7a4f36b3.png)
+![image](https://user-images.githubusercontent.com/65347753/196162649-739a7d75-8d55-4c8c-a811-d74340baeb26.png)
+
