@@ -1,5 +1,5 @@
 # remote-irrigation-system-for-farmland
-Thingworx Plaftorm(User Interfejs)+Arduino(Program for ESP32)
+Thingworx Plaftorm(User Interface)+Arduino(Program for ESP32)
 The work was awarded and received the maximum grade.
 The goal of the work is to develop software for remote control of the developed system of  irrigation equipment. 
 The idea of creating such a solution is to optimize the use of water by  sprinklers in the field and to automate the process of watering. 
